@@ -1,0 +1,5 @@
+/fridgebackend/keyapi.api
+/fridgebackend/fridgebackend.env
+/.venv/
+__pycache__/
+.pytest_cache/
